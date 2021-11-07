@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-node_modules/
-=======
 node_modules/
 *.log
 .directory
->>>>>>> logon
+.DS_Store
