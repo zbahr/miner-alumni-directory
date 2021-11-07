@@ -1,0 +1,69 @@
+#card{
+    width: 30%;
+    padding-left: 5%;
+    padding-bottom: 20px;
+    filter: drop-shadow(3px 3px 4px gray);
+}
+
+#cards{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#Name{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 15px;
+    color: green;
+}
+
+a:link {
+    color: green;
+    text-decoration: none;
+}
+
+#Business{
+    font-size: 14px;
+    color: green;
+}
+
+#Text{
+    padding-top: 18px;
+    padding-left: 30px;
+}
+
+.approve{
+    margin-right: 5px;
+    margin-top: 10px;
+    background: #e9ecef;
+    cursor: pointer;
+}
+
+.featureCard{
+    cursor: pointer;
+}
+
+.reject{
+    background: #e9ecef;
+    cursor: pointer;
+}
+
+.top-section{
+    display: flex;
+}
+
+#buttons{
+    margin-left: 2%;
+}
+
+.MuiCardContent-root-182{
+    display: flex;
+}
+
+.MuiCardContent-root-182:last-child{
+    padding-bottom: 15px;
+}
+
+.pic{
+    width: 130px;
+}
